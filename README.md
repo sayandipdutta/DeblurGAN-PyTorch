@@ -3,9 +3,9 @@
 An easy-to-read implementation of [DeblurGAN](https://arxiv.org/pdf/1711.07064.pdf) using PyTorch  
 
 ## Some demos of deblurring:  
-- ![blurred1](demo_pic/1.png) ![deblurred1](demo_pic/deblurred1.png)
+- ![blurred1](images/blurred/1.png) ![deblurred1](images/sharp/deblurred1.png)
   
-- ![blurred2](demo_pic/2.png) ![deblurred2](demo_pic/deblurred2.png) 
+- ![blurred2](images/blurred/2.png) ![deblurred2](images/sharp/deblurred2.png) 
 
 ## Prerequisites
 - NVIDIA GPU + CUDA cuDNN
